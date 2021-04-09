@@ -1,0 +1,59 @@
+﻿  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\Документы\menu_brokencore\SHDRAW\Init\WIndowProcess.h(20,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Документы\menu_brokencore\SHDRAW\fnv1a.h(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Документы\menu_brokencore\SHDRAW\fnv1a.h(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(29,37): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(29,37): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(29,68): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(29,68): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(72,31): warning C4244: аргумент: преобразование "std::streamoff" в "const unsigned int", возможна потеря данных
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(239,25): warning C4101: buff: неиспользованная локальная переменная
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(2388,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(2379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(526): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\Документы\menu_brokencore\SHDRAW\Init\main.cpp(526): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+D:\VS\VC\Tools\MSVC\14.24.28314\include\filesystem(2087): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::chrono::time_point<std::filesystem::_File_time_clock,std::chrono::duration<std::chrono::system_clock::rep,std::chrono::system_clock::period>>"
+D:\VS\VC\Tools\MSVC\14.24.28314\include\xstring(1743): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::basic_string_view<wchar_t,std::char_traits<wchar_t>>"
+  Создание кода
+D:\Документы\menu_brokencore\SHDRAW\Init\WIndowProcess.h(46): warning C4715: <unnamed-type-window>::init: значение возвращается не при всех путях выполнения
+  2 of 1610 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SHDRAW.vcxproj -> D:\Документы\menu_brokencore\Release\shuffle sdk.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\VS\VC\Tools\MSVC\14.24.28314\include\experimental\filesystem(30,1): fatal error C1189: #error:  The <experimental/filesystem> header providing std::experimental::filesystem is deprecated by Microsoft and will be REMOVED. It is superseded by the C++17 <filesystem> header providing std::filesystem. You can define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING to acknowledge that you have received this warning.
